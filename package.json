@@ -1,0 +1,19 @@
+{
+  "name": "prediction-stats",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "stats": "tsx index.ts"
+  },
+  "author": "Priansh Shah <priansh@replicate.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "replicate": "^0.29.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+}
